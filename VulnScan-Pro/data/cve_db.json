@@ -1,1 +1,20 @@
-
+{
+    "Apache Tomcat": [
+        {
+            "id": "CVE-2023-1234",
+            "affected_versions": "<9.0.45",
+            "risk": "critical",
+            "description": "Remote Code Execution Vulnerability",
+            "cvss": 9.8
+        }
+    ],
+    "OpenSSH": [
+        {
+            "id": "CVE-2023-5678",
+            "affected_versions": "<8.9p1",
+            "risk": "high",
+            "description": "Privilege Escalation Vulnerability",
+            "cvss": 7.8
+        }
+    ]
+}
