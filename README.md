@@ -1,6 +1,5 @@
 # VulnScan Pro 🔍⚡
 
-![Banner](https://via.placeholder.com/1920x400.png?text=VulnScan+Pro+-+AI-Powered+Security+Scanner)
 
 Enterprise-grade vulnerability scanning solution with real-time CVE detection
 
